@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "ok",
+  "result": {
+      "list": [
+          {
+              "urlLink": "https://study.163.com/lessonlive/h5/1280864055.htm",
+              "livePic": "http://edu-image.nosdn.127.net/1431DFA4D40ED6CDA480175F40298516.png?imageView&thumbnail=277y228&quality=100",
+              "liveName": "高并发架构限流技术分享",
+              "startTime": 1590235200000,
+              "endTime": 1590242400000,
+              "lector": "肖春平 网易特邀Java高级开发工程师",
+              "lectorDescription": null,
+              "bookingStatus": 0,
+              "lessonId": 1280864055,
+              "liveId": 480000002041212,
+              "liveStatus": 35,
+              "firstCategoryId": 480000003128011
+          },
+          {
+              "urlLink": "https://study.163.com/lessonlive/h5/1280869052.htm",
+              "livePic": "http://edu-image.nosdn.127.net/76FBCCBDC7608CF5565BCC66CD1E4C01.png?imageView&thumbnail=277y228&quality=100",
+              "liveName": "90分钟学会Springboot源码",
+              "startTime": 1590321600000,
+              "endTime": 1590328800000,
+              "lector": "姚景 网易特邀Java高级开发工程师",
+              "lectorDescription": null,
+              "bookingStatus": 0,
+              "lessonId": 1280869052,
+              "liveId": 480000002041213,
+              "liveStatus": 35,
+              "firstCategoryId": 480000003128011
+          },
+          {
+              "urlLink": "https://study.163.com/lessonlive/h5/1280895442.htm",
+              "livePic": "http://edu-image.nosdn.127.net/E0F2A8835608AFFDB87523A2E1405D2C.png?imageView&thumbnail=277y228&quality=100",
+              "liveName": "基础到进阶 - 手把手带你实操主流设计软件",
+              "startTime": 1590321600000,
+              "endTime": 1590327000000,
+              "lector": "海鱼 网易特邀设计师",
+              "lectorDescription": null,
+              "bookingStatus": 0,
+              "lessonId": 1280895442,
+              "liveId": 480000002063684,
+              "liveStatus": 35,
+              "firstCategoryId": 480000003126056
+          },
+          {
+              "urlLink": "https://study.163.com/lessonlive/h5/1280896482.htm",
+              "livePic": "http://edu-image.nosdn.127.net/87DF2821F22A80D14B45111A033BFC91.jpg?imageView&thumbnail=277y228&quality=100",
+              "liveName": "【技法进阶】设计高精致度图标有多难？高手只需这3步！",
+              "startTime": 1590408000000,
+              "endTime": 1590413400000,
+              "lector": "aiki 网易特邀设计师",
+              "lectorDescription": null,
+              "bookingStatus": 0,
+              "lessonId": 1280896482,
+              "liveId": 480000002064681,
+              "liveStatus": 35,
+              "firstCategoryId": 480000003126056
+          },
+          {
+              "urlLink": "https://study.163.com/lessonlive/h5/1280869728.htm",
+              "livePic": "http://edu-image.nosdn.127.net/D5ED7FB73BEE31286EB4DFEAE6FF88DB.jpg?imageView&thumbnail=277y228&quality=100",
+              "liveName": "新人必学产品基本功：用户需求",
+              "startTime": 1590494400000,
+              "endTime": 1590499800000,
+              "lector": "刘飞 《从点子到产品》、《产品思维》作者",
+              "lectorDescription": null,
+              "bookingStatus": 0,
+              "lessonId": 1280869728,
+              "liveId": 480000002043326,
+              "liveStatus": 35,
+              "firstCategoryId": 480000003121010
+          },
+          {
+              "urlLink": "https://study.163.com/lessonlive/h5/1280893435.htm",
+              "livePic": "http://edu-image.nosdn.127.net/202281D421A64A148726E99474B89315.jpg?imageView&thumbnail=277y228&quality=100",
+              "liveName": "大数据分析基础之SQL",
+              "startTime": 1590494400000,
+              "endTime": 1590501600000,
+              "lector": "赵强 网易特邀大数据开发讲师",
+              "lectorDescription": null,
+              "bookingStatus": 0,
+              "lessonId": 1280893435,
+              "liveId": 480000002066665,
+              "liveStatus": 35,
+              "firstCategoryId": 480000003128012
+          }
+      ]
+  },
+  "uuid": null
+}

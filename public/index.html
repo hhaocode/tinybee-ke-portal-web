@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- class="mourning" -->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+    <title><%= htmlWebpackPlugin.options.title %></title>
+    <!-- <link href="https://imgcache.qq.com/open/qcloud/video/tcplayer/tcplayer.css" rel="stylesheet"> -->
+    <!--如果需要在 Chrome 和 Firefox 等现代浏览器中通过 H5 播放 HLS 格式的视频，需要在 tcplayer.v4.min.js 之前引入 hls.js。-->
+    <!-- <script src="https://imgcache.qq.com/open/qcloud/video/tcplayer/libs/hls.min.0.12.4.js"></script> -->
+    <!--播放器脚本文件-->
+    <!-- <script src="https://imgcache.qq.com/open/qcloud/video/tcplayer/tcplayer.v4.min.js"></script> -->
+    <!--阿里云播放器-->
+    <link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.8.2/skins/default/aliplayer-min.css" />
+    <script charset="utf-8" type="text/javascript" src="https://g.alicdn.com/de/prismplayer/2.8.2/aliplayer-min.js"></script>
+  </head>
+  <body>
+    <noscript>
+      <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  </body>
+</html>

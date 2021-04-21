@@ -1,0 +1,33 @@
+{
+  "code": 0,
+  "message": "ok",
+  "result": [
+    {
+        "productId": 2293034,
+        "productType": 5,
+        "productName": "数据分析：6步规划快速上岗",
+        "urllink": "https://study.163.com/sl/u89",
+        "piclink": "http://tinybee-ke.oss-cn-shanghai.aliyuncs.com/images/1599559227625.png?Expires=1914919218&OSSAccessKeyId=LTAI4GKYyaJ6R1xoEr9UkSMJ&Signature=KJmrp50l2VnMUjSNKQMgWa3wsOE%3D",
+        "picColor": "#253b60",
+        "bannerTitle": "数据分析：6步规划快速上岗",
+        "searchItemType": 16,
+        "actionScene": "SCENE_UNKNOWN",
+        "recId": null,
+        "algInfo": null
+    },
+      {
+          "productId": 2293034,
+          "productType": 5,
+          "productName": "数据分析：6步规划快速上岗",
+          "urllink": "https://study.163.com/sl/u89",
+          "piclink": "http://tinybee-ke.oss-cn-shanghai.aliyuncs.com/images/1599559227625.png?Expires=1914919218&OSSAccessKeyId=LTAI4GKYyaJ6R1xoEr9UkSMJ&Signature=KJmrp50l2VnMUjSNKQMgWa3wsOE%3D",
+          "picColor": "#253b60",
+          "bannerTitle": "数据分析：6步规划快速上岗",
+          "searchItemType": 16,
+          "actionScene": "SCENE_UNKNOWN",
+          "recId": null,
+          "algInfo": null
+      }
+  ],
+  "uuid": null
+}

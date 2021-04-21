@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "message": "ok",
+  "result": [
+      {
+          "id": 10001,
+          "gmtCreate": 1550057629000,
+          "gmtModified": 1569211081613,
+          "name": "职场通用技能",
+          "categoryId": 480000003124025,
+          "weight": 0,
+          "webPageUrl": "https://study.163.com/topics/school-of-career",
+          "wapPageUrl": "https://study.163.com/topics/school-of-career-m",
+          "cover": "//edu-image.nosdn.127.net/b8cbbde8bc98409aad5227fde070df7d.png?imageView&quality=100"
+      },
+      {
+          "id": 10002,
+          "gmtCreate": 1550057629000,
+          "gmtModified": 1553847339079,
+          "name": "编程与开发",
+          "categoryId": 480000003121004,
+          "weight": 0,
+          "webPageUrl": "https://study.163.com/topics/school-of-programming-and-development",
+          "wapPageUrl": "https://study.163.com/topics/school-of-programming-and-development-m",
+          "cover": "//edu-image.nosdn.127.net/9c3adc02cea44377a91c6716201bbe4c.png?imageView&quality=100"
+      },
+      {
+          "id": 10003,
+          "gmtCreate": 1550057629000,
+          "gmtModified": 1578967239723,
+          "name": "AI与数据",
+          "categoryId": 480000003131012,
+          "weight": 0,
+          "webPageUrl": "https://study.163.com/topics/school-of-artificial-intelligence-and-data-science",
+          "wapPageUrl": "https://study.163.com/topics/school-of-artificial-intelligence-and-data-science-m",
+          "cover": "//edu-image.nosdn.127.net/7594f6916fc94a16af474856d1de8786.png?imageView&quality=100"
+      },
+      {
+          "id": 10004,
+          "gmtCreate": 1550057629000,
+          "gmtModified": 1578967249279,
+          "name": "产品与运营",
+          "categoryId": 480000003128005,
+          "weight": 0,
+          "webPageUrl": "https://study.163.com/topics/school-of-product-design-and-operation",
+          "wapPageUrl": "https://study.163.com/topics/school-of-product-design-and-operation-m",
+          "cover": "//edu-image.nosdn.127.net/29696616fe6e495a9b191244f2bd0bea.png?imageView&quality=100"
+      },
+      {
+          "id": 10005,
+          "gmtCreate": 1550057629000,
+          "gmtModified": 1553847357703,
+          "name": "设计创意",
+          "categoryId": 480000003121055,
+          "weight": 0,
+          "webPageUrl": "https://study.163.com/topics/school-of-design",
+          "wapPageUrl": "https://study.163.com/topics/school-of-design-m",
+          "cover": "//edu-image.nosdn.127.net/96ee5f4a9b954c1991b17ca577aaa00a.png?imageView&quality=100"
+      },
+      {
+          "id": 10006,
+          "gmtCreate": 1550057629000,
+          "gmtModified": 1553847365548,
+          "name": "电商运营",
+          "categoryId": 480000003120022,
+          "weight": 0,
+          "webPageUrl": "https://study.163.com/topics/school-of-e-commerce",
+          "wapPageUrl": "https://study.163.com/topics/school-of-e-commerce-m",
+          "cover": "//edu-image.nosdn.127.net/9957cb6a888e40f08c36ce6a96804d32.png?imageView&quality=100"
+      }
+  ],
+  "uuid": null
+}

@@ -1,0 +1,30 @@
+{
+  "id": "1735559",
+  "name": "arcus-web",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "arcus-web",
+  "glyphs": [
+    {
+      "icon_id": "1049698",
+      "name": "weibo",
+      "font_class": "weibo",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "322925",
+      "name": "QQ",
+      "font_class": "11qq",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "695493",
+      "name": "weixin",
+      "font_class": "weixin",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    }
+  ]
+}
